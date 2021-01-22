@@ -1,3 +1,5 @@
+// https://github.com/Lightsas/assignment-3
+
 function kilometerToMeter (kilometer){
     // (We know that 1 kilometer is equal to 1000 meters)
     var meter = kilometer * 1000;
